@@ -1,9 +1,0 @@
-node_modules/ 
-.idea/ 
-dist/ 
-target/ 
-*.zip 
-*.log 
-*.db 
-*.db-shm 
-*.db-wal
